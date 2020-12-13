@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 ![Visitors](https://gpvc.arturio.dev/kondrak)
 
